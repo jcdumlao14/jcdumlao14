@@ -9,9 +9,9 @@
 
 - <h3>🌱 I’m currently learning "Machine Learning Engineer Course"</h3>
 
-- <h3>MY RESUME https://github.com/jcdumlao14/resume-certification.git</h3>
+- <h3><i>MY RESUME</i> https://github.com/jcdumlao14/resume-certification.git</h3>
 
-- <h3>My Certification https://github.com/jcdumlao14/resume-certification.git</h3>
+- <h3><i>My Certification</i> https://github.com/jcdumlao14/resume-certification.git</h3>
 
 - <h3>📫 You can reach me on my email Address: jocelyncarmendumlao@gmail.com</h3>
 
