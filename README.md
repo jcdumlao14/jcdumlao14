@@ -11,13 +11,13 @@
 
 - <h3>🌱 Machine Learning Zoomcamp "mlzoomcamp2022"</h3>
 
-- <h3><i>MY RESUME</i> https://github.com/jcdumlao14/resume-certification.git</h3>
+- [MY RESUME](https://github.com/jcdumlao14/resume-certification.git)
 
-- <h3><i>My Certification</i> https://github.com/jcdumlao14/resume-certification.git</h3>
+- [My Certification](https://github.com/jcdumlao14/resume-certification.git)
 
-- <h3>📫 You can reach me on my email Address: jocelyncarmendumlao@gmail.com</h3>
+- 📫 You can reach me on [My Email](jocelyncarmendumlao@gmail.com)
 
-- <h3>📫 My Portfolio website http://</h3>
+- 📫 My Portfolio website http://</h3>
 
 <!---
 jcdumlao14/jcdumlao14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
