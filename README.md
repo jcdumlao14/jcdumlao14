@@ -7,7 +7,7 @@
      
 - <h3>👀 I’m interested in Programming Language</h3>
 
-- <h3>🌱 I’m currently learning "Machine Learning Engineer Course"</h3>
+- <h3>🌱 I’m currently learning "Machine Learning Engineering Course"</h3>
 
 - <h3>🌱 Machine Learning Zoomcamp "mlzoomcamp2022"</h3>
 
