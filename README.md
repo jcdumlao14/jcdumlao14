@@ -113,7 +113,7 @@
   </section>
    <section id="contact">
    <h2>Contact Me</h2>
-   <p>Email: jocelyncarmendumlao@gmail.com</p>
+   <li><a href="jocelyncarmendumlao@gmail.com" class="icon brands fa-gmail"><span class="label">My Email</span></a></li>
    <p>Phone: </p>
    <p>Address: Tokyo St. Bambu Estate North, 
       Tugbok Dist. Davao City, Philippines</p>
