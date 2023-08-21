@@ -126,6 +126,8 @@ Throughout my career, I have excelled in identifying relevant data sources to me
 		<li><a href="https://www.linkedin.com/in/jocelyn-dumlao-168921a8/" class="icon brands fa-linkedin-in"><span class="label">linkedin</span></a></li>
 		<li><a href="https://www.facebook.com/jocelyncarmen.dumlao" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 		<li><a href="https://github.com/jcdumlao14" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+		<li><a href="https://www.kaggle.com/jocelyndumlao" class="icon brands fa-kaggle"><span class="label">Kaggle</span></a></li>
+		 
 </ul>
 </nav>
       </section>
