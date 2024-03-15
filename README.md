@@ -119,8 +119,12 @@ Throughout my career, I have excelled in identifying relevant data sources to me
    <p>Address: Tokyo St. Bambu Estate North, 
       Tugbok Dist. Davao City, Philippines</p>
            
-   - [MY RESUME](https://github.com/jcdumlao14/resume-certification.git)          
-   - [My Certification](https://github.com/jcdumlao14/resume-certification.git)
+   - [Data Science Professional Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/Harvard%20University-Certificate/prof-cert-grad.png)
+   - [Machine Learning Zoomcamp](https://github.com/jcdumlao14/resume-certification/blob/main/MACHINE%20LEARNING%20ZOOMCAMP/8dadb9e563fd7be8aceb515f1caa5ed9436be483.pdf
+)
+   - [PCAP - Programming-Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/CISCO-Networking%20Academy-Certificate/JocelynDumlao-PCAP%20-%20Programmi-certificate.pdf)
+       
+   - [Other Dphi Certification](https://github.com/jcdumlao14/resume-certification.git)
 </ul>
           <ul class="icons">
 		<li><a href="https://www.linkedin.com/in/jocelyn-dumlao-168921a8/" class="icon brands fa-linkedin-in"><span class="label">linkedin</span></a></li>
