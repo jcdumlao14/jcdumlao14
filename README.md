@@ -124,7 +124,8 @@ Throughout my career, I have excelled in identifying relevant data sources to me
 )
    - [PCAP - Programming-Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/CISCO-Networking%20Academy-Certificate/JocelynDumlao-PCAP%20-%20Programmi-certificate.pdf)
        
-   - [Other Dphi Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Bootcamp%20Certificate)
+   - [Dphi Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Bootcamp%20Certificate)
+   - [Other Dphi Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Course%20Certificate)
 </ul>
           <ul class="icons">
 		<li><a href="https://www.linkedin.com/in/jocelyn-dumlao-168921a8/" class="icon brands fa-linkedin-in"><span class="label">linkedin</span></a></li>
