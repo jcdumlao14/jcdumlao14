@@ -17,8 +17,28 @@
     <main>
       <section id="about">
         <h2>About Me</h2>
-        <p>Hi, my name is Jocelyn C. Dumlao and I am a data scientist with a strong background in mathematics and extensive experience in data science and machine learning. I hold a Bachelor's Degree in Mathematics from the University of Southeastern Philippines, Davao City. In addition to my degree, I have completed several online courses to enhance my skills, including the Data Science Professional Certificate at Harvard University, the PCAP: Programming Essentials in Python Intermediate course at CISCO Networking Academy, the DPhi Data Science Bootcamp, and the Machine Learning Engineering Course at MLzoomcamp2022.
-Throughout my career, I have excelled in identifying relevant data sources to meet business requirements, collecting both structured and unstructured data, and sourcing missing data. I possess expertise in organizing data into usable formats and constructing predictive models. Moreover, I am proficient in analyzing data for patterns and trends, enabling me to address specific inquiries effectively.</p>
+<p>  
+
+-  🎓 Bachelor's Degree in Mathematics
+		
+   University of Southeastern Philippines, Davao City
+
+- 🤖 Data Scientist with a strong mathematical foundation
+
+  Passionate about building intelligent systems and solving real-world problems using data
+
+
+- 📚 Lifelong learner — continuously enhancing skills through hands-on projects and structured courses
+
+- 🧠 Certifications & Specialized Training:
+   - 🏅 Data Science Professional Certificate – Harvard University/edX
+   - 🐍 PCAP: Programming Essentials in Python (Intermediate) – CISCO Networking Academy
+   - 🚀 Data Science Bootcamp – DPhi
+   - 📊 Machine Learning Engineering Course – MLzoomcamp 2022
+
+- 💡 Driven by curiosity, committed to learning, and excited to contribute to the data science community
+
+</p>
       </section>
       <section id="projects">
         <h2>Projects</h2>
