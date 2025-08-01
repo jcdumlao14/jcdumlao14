@@ -31,10 +31,12 @@
 - 📚 Lifelong learner — continuously enhancing skills through hands-on projects and structured courses
 
 - 🧠 Certifications & Specialized Training:
-   - 🏅 Data Science Professional Certificate – Harvard University/edX
-   - 🐍 PCAP: Programming Essentials in Python (Intermediate) – CISCO Networking Academy
-   - 🚀 Data Science Bootcamp – DPhi
-   - 📊 Machine Learning Engineering Course – MLzoomcamp 2022
+   - 🏅 Data Science Professional Certificate – Harvard University/edX : [Data Science Professional Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/Harvard%20University-Certificate/prof-cert-grad.png)
+   - 🐍 PCAP: Programming Essentials in Python (Intermediate) – CISCO Networking Academy : [PCAP - Programming-Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/CISCO-Networking%20Academy-Certificate/JocelynDumlao-PCAP%20-%20Programmi-certificate.pdf)
+   - 🚀 Data Science Bootcamp : [AI Planet (formerly DPhi)Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Bootcamp%20Certificate)
+      - [Other Dphi Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Course%20Certificate)
+   - 📊 Machine Learning Engineering Course – MLzoomcamp 2022 : [Machine Learning Zoomcamp - Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/MACHINE%20LEARNING%20ZOOMCAMP/8dadb9e563fd7be8aceb515f1caa5ed9436be483.pdf
+)
 
 - 💡 Driven by curiosity, committed to learning, and excited to contribute to the data science community
 
@@ -140,11 +142,11 @@
       Tugbok Dist. Davao City, Philippines</p>
            
    - [Data Science Professional Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/Harvard%20University-Certificate/prof-cert-grad.png)
-   - [Machine Learning Zoomcamp](https://github.com/jcdumlao14/resume-certification/blob/main/MACHINE%20LEARNING%20ZOOMCAMP/8dadb9e563fd7be8aceb515f1caa5ed9436be483.pdf
+   - [Machine Learning Zoomcamp - Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/MACHINE%20LEARNING%20ZOOMCAMP/8dadb9e563fd7be8aceb515f1caa5ed9436be483.pdf
 )
    - [PCAP - Programming-Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/CISCO-Networking%20Academy-Certificate/JocelynDumlao-PCAP%20-%20Programmi-certificate.pdf)
        
-   - [Dphi Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Bootcamp%20Certificate)
+   - [AI Planet (formerly DPhi)Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Bootcamp%20Certificate)
    - [Other Dphi Certification](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Course%20Certificate)
 </ul>
           <ul class="icons">
