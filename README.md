@@ -19,7 +19,7 @@
         <h2>About Me</h2>
 <p>  
 
--  🎓 Bachelor's Degree in Mathematics
+-  🎓 Bachelor of Science in Mathematics
 		
    University of Southeastern Philippines, Davao City
 
