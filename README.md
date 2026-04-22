@@ -43,6 +43,13 @@
 </p>
       </section>
       <section id="projects">
+        <h2>📌 Research Publication (Co-Author)</h2>
+
+[![image](https://github.com/jcdumlao14/ESS11DataAnalysis/blob/main/Global%20journal.png)]( https://doi.org/10.1016/j.glohj.2025.11.002)
+
+</p>
+      </section>
+      <section id="projects">
         <h2>Projects</h2>
 	
 <!-- Main -->
