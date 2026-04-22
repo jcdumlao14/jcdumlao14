@@ -45,17 +45,18 @@
 </section>
 
 <section id="Research Publication">
-  <h2>📌 Research Publication (Co-Author)</h2>
+  <h2>📌 Research Publication</h2>
 
 <!-- Main -->
    <div id="main">
      <!-- Featured Post -->
 	<article class="post featured">
 	   <header class="major">
-	       <h2><a href="https://github.com/jcdumlao14/ESS11DataAnalysis/edit/main/README.md">Global Health Journal<br />
+	       <h2><a href="https://github.com/jcdumlao14/ESS11DataAnalysis/edit/main/README.md">Global Health Journal<br /></a></h2>
 
 [![image](https://github.com/jcdumlao14/ESS11DataAnalysis/blob/main/Global%20journal.png)]( https://doi.org/10.1016/j.glohj.2025.11.002) 
-	<li><a href="https://github.com/jcdumlao14/ESS11DataAnalysis" class="button">View Code</a></li>
+
+<li><a href="https://github.com/jcdumlao14/ESS11DataAnalysis" class="button">View Research Code</a></li>
 
   
 </p>
