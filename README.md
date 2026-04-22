@@ -10,7 +10,7 @@
     <nav>
       <ul>
         <li><a href="#about">About Me</a></li>
-		<li><a href="#ResearchPublication">Research Publication</a></li>  
+		<li><a href="#Research Publication">Research Publication</a></li>  
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -45,7 +45,7 @@
 </section>
 
 <section id="Research Publication">
-  <h2>📌 Research Publication</h2>
+  <h2>📌 Research Publication(Co-Author)</h2>
 
 <!-- Main -->
    <div id="main">
