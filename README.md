@@ -10,6 +10,7 @@
     <nav>
       <ul>
         <li><a href="#about">About Me</a></li>
+		<li><a href="#ResearchPublication">Research Publication</a></li>  
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -21,7 +22,7 @@
 
 -  🎓 Bachelor of Science in Mathematics
 		
-   University of Southeastern Philippines, Davao City
+   **University of Southeastern Philippines**, Davao City
 
 - 🤖 Data Scientist with a strong mathematical foundation
 
@@ -41,16 +42,26 @@
 - 💡 Driven by curiosity, committed to learning, and excited to contribute to the data science community
 
 </p>
-      </section>
-      <section id="projects">
-        <h2>📌 Research Publication (Co-Author)</h2>
+</section>
 
-[![image](https://github.com/jcdumlao14/ESS11DataAnalysis/blob/main/Global%20journal.png)]( https://doi.org/10.1016/j.glohj.2025.11.002)
+<section id="Research Publication">
+  <h2>📌 Research Publication (Co-Author)</h2>
 
+<!-- Main -->
+   <div id="main">
+     <!-- Featured Post -->
+	<article class="post featured">
+	   <header class="major">
+	       <h2><a href="https://github.com/jcdumlao14/ESS11DataAnalysis/edit/main/README.md">Global Health Journal<br />
+
+[![image](https://github.com/jcdumlao14/ESS11DataAnalysis/blob/main/Global%20journal.png)]( https://doi.org/10.1016/j.glohj.2025.11.002) 
+	<li><a href="https://github.com/jcdumlao14/ESS11DataAnalysis" class="button">View Code</a></li>
+
+  
 </p>
       </section>
       <section id="projects">
-        <h2>Projects</h2>
+        <h2>📌Projects</h2>
 	
 <!-- Main -->
    <div id="main">
@@ -58,7 +69,7 @@
 	<article class="post featured">
 	   <header class="major">
 	       <h2><a href="https://github.com/jcdumlao14/ML-zoomcamp-course-homework/blob/main/Capstone%20Project-1/README.md">Grapevine Leaves Classification <br />
-	        By Neural Networks and Deep Learning</a></h2>
+	       </a></h2>
 	        <p>The Grapevine Leaves are provided Leaf photos of 11 Vitis Vinifera varieties.<br />
 		I chose this dataset to apply Neural Networks and Deep Learning,<br />
 		check the different models and activation functions and tune the model parameters and augmentation.</p>
