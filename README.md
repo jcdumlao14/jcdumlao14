@@ -215,35 +215,10 @@ https://github.com/jcdumlao14/ESS11DataAnalysis
 <img src="./images/medrag-demo.gif" width="850">
 </p>
 
----
-
-# 📌 Featured Repositories
-
 <p align="center">
-
-<a href="https://github.com/jcdumlao14/LLM-Zoomcamp2026-Final-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jcdumlao14&repo=LLM-Zoomcamp2026-Final-Project&theme=merko"/>
-</a>
-
-<a href="https://github.com/jcdumlao14/ESS11DataAnalysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jcdumlao14&repo=ESS11DataAnalysis&theme=merko"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/jcdumlao14/LLM-Zoomcamp2026-Final-Project/main/images/medrag-banner.png" width="900" alt="MedRAG AI">
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=jcdumlao14&show_icons=true&theme=merko&rank_icon=github"/>
-
-<img height="180"
-src="https://streak-stats.demolab.com?user=jcdumlao14&theme=merko"/>
-
-</p>
 ---
 
 # 📈 Activity Graph
@@ -310,7 +285,9 @@ src="https://streak-stats.demolab.com?user=jcdumlao14&theme=merko"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B3D2E,50:145A32,100:2ECC71"/>
 
----
+</p>
+
+<p align="center">
 
 Copyright ©2022 Jocelyn C. Dumlao
 
