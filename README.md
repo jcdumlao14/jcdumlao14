@@ -183,7 +183,7 @@ Streamlit • Hugging Face Spaces • Google Colab
 
 ![](https://img.shields.io/badge/Published-Global%20Health%20Journal-darkgreen?style=for-the-badge)
 
-📑 Counterfactual Machine Learning for Public Health Analysis
+📑 If Europe lived the same lifestyle: insights into cardiovascular risk from the European Social Survey
 
 📖 DOI
 
