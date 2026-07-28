@@ -212,6 +212,10 @@ https://github.com/jcdumlao14/ESS11DataAnalysis
 ## 🩺 MedRAG AI
 
 <p align="center">
+  <img src="./docs/images/medrag-demo.gif" width="900" alt="MedRAG AI Demo">
+</p>
+
+<p align="center">
 
 <img src="./docs/images/home.png" width="47%" alt="Home"/>
 <img src="./docs/images/answer.png" width="47%" alt="Answer"/>
