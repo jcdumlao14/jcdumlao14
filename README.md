@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Researcher;Large+Language+Model;Gen+AI;Agent+AI;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Researcher;Kaggle+GrandMaster;Large+Language+Model;Generative+AI;AI+Agent;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 
 </p>
 
@@ -49,8 +49,8 @@
 - ⚡ Deep Learning
 - 📊 Data Science
 - 📈 Predictive Analytics
--  Gen AI
--  AI Agent
+- 🤖 Gen AI
+- 🤖 AI Agent
 - 💬 Large Language Models
 - 🔍 Retrieval-Augmented Generation (RAG)
 
@@ -71,15 +71,15 @@
 - ☁️ MLOps
 
 ---
-
 # 🧠 Certifications & Specialized Training
 
-| Certification | Badge |
-|---------------|-------|
-| 🏅 Harvard University / edX – Data Science Professional Certificate | ![](https://img.shields.io/badge/Harvard-Data%20Science-A51C30?style=for-the-badge&logo=harvard&logoColor=white) |
-| 🐍 Cisco Networking Academy – PCAP Python | ![](https://img.shields.io/badge/Cisco-PCAP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
-| 🚀 AI Planet (DPhi) – Data Science Bootcamp | ![](https://img.shields.io/badge/AI%20Planet-Bootcamp-purple?style=for-the-badge) |
-| 📊 DataTalksClub – Machine Learning Zoomcamp | ![](https://img.shields.io/badge/ML%20Zoomcamp-Certificate-2E8B57?style=for-the-badge) |
+| Certification | Badge | Certificate |
+|---------------|-------|-------------|
+| 🏅 **Harvard University / edX** – Data Science Professional Certificate | ![](https://img.shields.io/badge/Harvard-Data%20Science-A51C30?style=for-the-badge&logo=harvard&logoColor=white) | 🔗 [View Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/Harvard%20University-Certificate/prof-cert-grad.png) |
+| 🐍 **Cisco Networking Academy** – PCAP Python | ![](https://img.shields.io/badge/Cisco-PCAP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | 🔗 [View Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/CISCO-Networking%20Academy-Certificate/JocelynDumlao-PCAP%20-%20Programmi-certificate.pdf) |
+| 🚀 **AI Planet (DPhi)** – Data Science Bootcamp | ![](https://img.shields.io/badge/AI%20Planet-Bootcamp-purple?style=for-the-badge) | 🔗 [View Certificate](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Bootcamp%20Certificate) |
+| 📚 **AI Planet (DPhi)** – Additional Courses | ![](https://img.shields.io/badge/DPhi-Courses-blueviolet?style=for-the-badge) | 🔗 [View Courses](https://github.com/jcdumlao14/resume-certification/tree/main/DPhi%20Course%20Certificate) |
+| 📊 **DataTalksClub** – Machine Learning Zoomcamp 2022 | ![](https://img.shields.io/badge/ML%20Zoomcamp-Certificate-2E8B57?style=for-the-badge) | 🔗 [View Certificate](https://github.com/jcdumlao14/resume-certification/blob/main/MACHINE%20LEARNING%20ZOOMCAMP/8dadb9e563fd7be8aceb515f1caa5ed9436be483.pdf) |
 
 ---
 
@@ -107,8 +107,6 @@
 
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
 
-<img src="https://cdn.simpleicons.org/xgboost/337AB7" height="45"/>
-
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>
 
 <img src="https://cdn.simpleicons.org/langchain/00A67E" height="45"/>
@@ -131,7 +129,7 @@ Scikit-Learn • XGBoost • LightGBM • CatBoost • YOLOv11 • Hugging Face 
 
 <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="45"/>
 
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib"/>
 
 <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="45"/>
 
@@ -209,30 +207,26 @@ https://github.com/jcdumlao14/ESS11DataAnalysis
 
 # 🎥 Project Demonstrations
 
-## 🩺 MedRAG AI
+## 🩺 [MedRAG AI](https://github.com/jcdumlao14/LLM-Zoomcamp2026-Final-Project)
 ## 🎬 Demo
 
 <p align="center">
-  <img src="./docs/images/demo.gif" width="90%" alt="MedRAG AI Demo">
+  <img src="https://github.com/jcdumlao14/jcdumlao14/blob/main/docs/images/ezgif.com-speed.gif"
+       width="900"
+       alt="MedRAG AI Demo">
 </p>
 
 ---
 
-## 📸 Screenshots
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./docs/images/sources.png" width="47%" alt="Retrieved Sources"/>
-  <img src="./docs/images/dashboard.png" width="47%" alt="Monitoring Dashboard"/>
+
+<img height="180"
+src="https://github-readme-streak-stats.herokuapp.com/?user=jcdumlao14&theme=merko&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img src="./docs/images/docker_desktop.png" width="78%" alt="Docker Deployment"/>
-</p>
-
-<p align="center">
-  <img src="./docs/images/home.png" width="47%" alt="Home Screen"/>
-  <img src="./docs/images/answer.png" width="47%" alt="Answer Screen"/>
-</p>
 ---
 
 # 📈 Activity Graph
