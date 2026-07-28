@@ -212,13 +212,24 @@ https://github.com/jcdumlao14/ESS11DataAnalysis
 ## 🩺 MedRAG AI
 
 <p align="center">
-<img src="./images/medrag-demo.gif" width="850">
+
+<img src="./docs/images/home.png" width="47%" alt="Home"/>
+<img src="./docs/images/answer.png" width="47%" alt="Answer"/>
+
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jcdumlao14/LLM-Zoomcamp2026-Final-Project/main/images/medrag-banner.png" width="900" alt="MedRAG AI">
+
+<img src="./docs/images/sources.png" width="47%" alt="Sources"/>
+<img src="./docs/images/dashboard.png" width="47%" alt="Dashboard"/>
+
 </p>
 
+<p align="center">
+
+<img src="./docs/images/docker_desktop.png" width="70%" alt="Docker Desktop"/>
+
+</p>
 ---
 
 # 📈 Activity Graph
