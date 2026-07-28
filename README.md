@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Researcher;Large+Language+Model;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Researcher;Large+Language+Model;Gen+AI;Agent+AI;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 
 </p>
 
@@ -210,29 +210,28 @@ https://github.com/jcdumlao14/ESS11DataAnalysis
 # 🎥 Project Demonstrations
 
 ## 🩺 MedRAG AI
+## 🎬 Demo
 
 <p align="center">
-  <img src="./docs/images/medrag-demo.gif" width="900" alt="MedRAG AI Demo">
+  <img src="./docs/images/demo.gif" width="90%" alt="MedRAG AI Demo">
+</p>
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./docs/images/sources.png" width="47%" alt="Retrieved Sources"/>
+  <img src="./docs/images/dashboard.png" width="47%" alt="Monitoring Dashboard"/>
 </p>
 
 <p align="center">
-
-<img src="./docs/images/home.png" width="47%" alt="Home"/>
-<img src="./docs/images/answer.png" width="47%" alt="Answer"/>
-
+  <img src="./docs/images/docker_desktop.png" width="78%" alt="Docker Deployment"/>
 </p>
 
 <p align="center">
-
-<img src="./docs/images/sources.png" width="47%" alt="Sources"/>
-<img src="./docs/images/dashboard.png" width="47%" alt="Dashboard"/>
-
-</p>
-
-<p align="center">
-
-<img src="./docs/images/docker_desktop.png" width="70%" alt="Docker Desktop"/>
-
+  <img src="./docs/images/home.png" width="47%" alt="Home Screen"/>
+  <img src="./docs/images/answer.png" width="47%" alt="Answer Screen"/>
 </p>
 ---
 
