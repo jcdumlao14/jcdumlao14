@@ -168,6 +168,8 @@ Streamlit • Hugging Face Spaces • Google Colab
 
 https://doi.org/10.1016/j.glohj.2025.11.002
 
+ <a href="https://www.researchgate.net/profile/Jocelyn-Dumlao" target="_blank" rel="noopener noreferrer">Jocelyn Dumlao on ResearchGate</a> 
+
 💻 Research Code
 
 https://github.com/jcdumlao14/ESS11DataAnalysis
